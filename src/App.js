@@ -1,7 +1,7 @@
-import Counter from "./app/features/counter/Counter";
+import Counter from "./features/counter/Counter";
 
 import "./App.css";
-import Input from "./app/features/input/Input";
+import Input from "./features/input/Input";
 
 function App() {
   return (
